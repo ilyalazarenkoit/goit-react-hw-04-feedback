@@ -1,0 +1,8 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:rgb(145, 145, 241);
+    gap:10px;
+}

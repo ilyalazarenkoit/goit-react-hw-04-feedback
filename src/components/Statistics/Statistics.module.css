@@ -1,0 +1,46 @@
+.statistic {
+    display: flex;
+    gap:30px;
+}
+.feedback {
+    border: 1px solid rgb(145, 145, 241);
+    border-radius: 5px;
+    padding:10px;
+}
+.total {
+    background-color: rgb(145, 145, 241);
+    color:white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.good_percentage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  background-color: rgb(168, 238, 168);
+  padding:2px;
+  border-radius: 5%;
+}
+
+.normal_percentage {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+color:white;
+background-color: rgb(255, 214, 138);
+padding:2px;
+border-radius: 5%;
+}
+
+.bad_percentage {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ color:white;
+background-color: rgb(244, 148, 148);
+padding:2px;
+border-radius: 5%;
+}
